@@ -1,0 +1,41 @@
+{
+    "packages": [
+        {
+            "name": "phyozawtun/composer-myanmar-national-registration-nrc-card",
+            "version": "v1.3.6-beta",
+            "version_normalized": "1.3.6.0-beta",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/phyozawtun/composer-myanmar-national-registration-nrc-card.git",
+                "reference": "ca5b2aeb2c9eac43eb4c979e5e2ca66ff18c11d0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/phyozawtun/composer-myanmar-national-registration-nrc-card/zipball/ca5b2aeb2c9eac43eb4c979e5e2ca66ff18c11d0",
+                "reference": "ca5b2aeb2c9eac43eb4c979e5e2ca66ff18c11d0",
+                "shasum": ""
+            },
+            "time": "2021-04-08T10:04:56+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "AGPL-3.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Phyo Zaw Tun",
+                    "email": "phyozawtun91@gmail.com"
+                }
+            ],
+            "description": "PHP Composer Package - Myanmar National Registration Card. in from NRC card. General purpose library for Myanmar NRC Card. Get list of townships code used in NRC number format, validation NRC number inputs and intigrated in forms.",
+            "support": {
+                "issues": "https://github.com/phyozawtun/composer-myanmar-national-registration-nrc-card/issues",
+                "source": "https://github.com/phyozawtun/composer-myanmar-national-registration-nrc-card/tree/v1.3.6-beta"
+            },
+            "install-path": "../phyozawtun/composer-myanmar-national-registration-nrc-card"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
